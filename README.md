@@ -14,10 +14,10 @@ I built a timed coding quiz with multiple-choice questions. This app runs in the
 <li>When the game is over,then you can save your initials and score.
 
 ## Installation
-Open the webisite by clicking this link : 
+Open the webisite by clicking this link : https://jimbobster.github.io/Web-API-Javascript-Quiz/
 
 ## Usage
-<li>URL of the deployed Application : 
+<li>URL of the deployed Application : https://jimbobster.github.io/Web-API-Javascript-Quiz/
 
 <li>URL of the Github Repository that contains the code : https://github.com/Jimbobster/Web-API-Javascript-Quiz
 
